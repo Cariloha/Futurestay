@@ -1,0 +1,120 @@
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa57505cb7d62e07e72c9_Alleyn-Bold-Italic.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa5751716495f6b6a0ea5_Alleyn-Bold.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa5759e6f2353794884c6_Alleyn-Book-Italic.otf")
+    format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa575b8b9db982bedeb9f_Alleyn-Book.otf")
+    format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa575983f0b9b3a080d92_Alleyn-Light-Italic.otf")
+    format("opentype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa5751ffc309f82016836_Alleyn-Regular-Italic.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa575fa93d03819d4e1d3_Alleyn-Light.otf")
+    format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa57540dfa825998e0a57_Alleyn-Medium-Italic.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa57505cb7dbdbc7e72ca_Alleyn-Medium.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa57599eede23a4772623_Alleyn-Regular.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa5753c3aa26390988329_Alleyn-Semibold-Italic.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Alleyn";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/5ebaa5751c344a2416fed2e8_Alleyn-Semibold.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "Font awesome 5 free 400";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/6093f23b6bde46f678649339_Font%20Awesome%205%20Free-Regular-400.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Font awesome 5 brands 400";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/6093f23b44499368bc9745d0_Font%20Awesome%205%20Brands-Regular-400.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Font awesome 5 free solid 900";
+  src: url("https://uploads-ssl.webflow.com/5ebaa29235ed0a5a7d40c895/6093f23bc4bc03138996882c_Font%20Awesome%205%20Free-Solid-900.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
