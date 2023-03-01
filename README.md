@@ -1,2 +1,2 @@
 # Futurestay
-Challenge of an interview
+Challenge from an interview
